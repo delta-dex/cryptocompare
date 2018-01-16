@@ -1,3 +1,19 @@
+.hero {
+  background:#303030;
+  padding:2em 0;
+  margin-bottom:1em;
+}
+.hero * {
+  color:#FFFFFF;
+}
+.hero h1 {
+  color:#F9B92F;
+}
+
+.hero p {
+  font-size: 1.2em;
+}
+
 [v-cloak] {
   display: none;
 }
@@ -6,15 +22,36 @@ h1 {
   text-align: center;
 }
 
+table thead {
+  background:#F9B92F;
+}
+table.dataTable thead .sorting:after, table.dataTable thead .sorting_asc:after, table.dataTable thead .sorting_desc:after, table.dataTable thead .sorting_asc_disabled:after, table.dataTable thead .sorting_desc_disabled:after {opacity:0.75;}
+
+table thead tr th {
+  color:#fff;
+  font-weight:400;
+}
+
+table tr td, table thead th {
+  text-align:right;
+}
+
+table tr td.coin_title, table thead th.coin_title {
+  text-align:left;
+}
+
 td img {
   width: 25px;
 }
 
-.jumbotron p {
-  font-size: 1.2em;
+table tr td.rank {
+  width:3em;
 }
 
-.jumbotron {
-  margin-top: 5em;
-  margin-bottom: 5em;
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+  background-color:#F7B840;
+  border-color:#F7B840;
 }
+
+

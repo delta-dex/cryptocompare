@@ -50,3 +50,16 @@ services:
   [coinmarketcap]: https://coinmarketcap.com/api/ "coinmarketcap API"
   [cryptocompare]: https://www.cryptocompare.com/api "cryptocompare API"
   [website image]: /static/images/screenshot.png "Screenshot"
+  [datatables]: https://datatables.net/examples/styling/bootstrap.html "Datatables for Bootstrap"
+
+  ## BrowserSync
+
+  Cross device test and develop on the fly. Setup browsersync then run this site on desktop and mobile while working on front end. Connect both devices to the same wifi and access the local url from desktop and external url from mobile.
+
+  Run: 
+
+  ```npm install -g browser-sync```
+
+  Then: 
+
+  ```browser-sync start --server --files "css/*.css"```
