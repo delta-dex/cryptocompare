@@ -303,19 +303,21 @@ var dataSet = [
 
 $(document).ready(function() {
     $('#cryptocurrency-compare').DataTable({
-      "language": {
-          "info": "Showing page _PAGE_ of _PAGES_ of _TOTAL_ coins",
-          "infoFiltered":   "(filtered from _MAX_ total coins)"
 
-        },
       responsive: true,
       fixedHeader: true,
       fixedHeader: {
         headerOffset: 50
       },
+      "language": {
+          "info": "Showing page _PAGE_ of _PAGES_ of _TOTAL_ coins",
+          "infoFiltered":   "(filtered from _MAX_ total coins)"
+
+        },
+        
       "columnDefs": [
       //shrink rank column width 
-      { "width": "5%", "targets": 0 },
+      // { "width": "5%", "targets": 0 },
 
       //disable trend sort and search
         {

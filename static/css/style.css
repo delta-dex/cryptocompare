@@ -100,7 +100,7 @@ table.dataTable.dtr-inline.collapsed>tbody>tr[role="row"]>td:first-child:before,
   background-color:#222;
   height:20px;
   width:20px;
-  line-height:135%;
+  line-height:18px;
   font-family:helvetica,arial,sans-serif;
 }
 
