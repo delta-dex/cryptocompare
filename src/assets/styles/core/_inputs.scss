@@ -1,0 +1,22 @@
+
+input[type="text"],
+input[type="date"],
+input[type="time"],
+input[type="datetime"],
+input[type="password"],
+input[type="search"],
+select {
+    display: inline-block;
+    width: 250px;
+    height: 3rem;
+    padding: 0 0.75rem;
+    background-color: $colour-background;
+    border: 1px solid $colour-border;
+    border-radius: 2px;
+    outline: none;
+
+    &:focus,
+    &:active {
+        border-color: $colour-primary;
+    }
+}

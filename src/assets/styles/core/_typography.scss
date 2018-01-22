@@ -1,0 +1,96 @@
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 1em;
+    margin-bottom: 0.25em;
+    font-weight: 600;
+    line-height: $line-height;
+    color: $colour-font;
+}
+
+h1 {
+    font-size: #{ pow($typography-ratio, 4) }em;
+}
+
+h2 {
+    font-size: #{ pow($typography-ratio, 3) }em;
+}
+
+h3 {
+    font-size: #{ pow($typography-ratio) }em;
+}
+
+h4 {
+    font-size: $typography-ratio * 1em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+h6 {
+    font-size: 1em/$typography-ratio;
+}
+
+p {
+    margin: 0.75em 0;
+}
+
+small {
+    font-size: 1em/$typography-ratio;
+}
+
+strong {
+    font-weight: 600;
+}
+
+em {
+    font-style: italic;
+}
+
+a {
+    color: $colour-primary;
+    text-decoration: none;
+
+    &:hover {
+        color: darken($colour-primary, $colour-variation);
+    }
+
+    &.escape-link {
+        color: inherit;
+
+        &:hover {
+            color: inherit;
+        }
+    }
+}
+
+label {
+    display: block;
+    font-weight: 600;
+    font-size: 1em/$typography-ratio;
+}
+
+blockquote {
+    display: block;
+    margin: 1em 0;
+    padding: 0 1em;
+    color: #888;
+    font-weight: 600;
+    border-left: 4px solid #2196F3;
+}
+
+code {
+    display: block;
+    margin: 1em 0;
+    padding: 1em;
+    font-family: monospace;
+    white-space: pre;
+    background-color: #FAFAFA;
+    border: 1px solid $colour-border;
+    border-radius: $border-radius;
+}

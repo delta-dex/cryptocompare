@@ -1,73 +1,43 @@
-# cryptocompare
+# Vuetiful
 
-CryptoCompare is a static website that compares cryptocurrency prices for
-popular currencies.
+Vuetiful is a component framework written on top of the Vue reactive library. It is primarily designed for creating business/administration applications where the displaying of data is paramount. Although targeted primarily at business applications, Vuetiful is extremely flexible and easily themed making it trivial to integrate into any website.
 
-It uses plain old HTML, Javascript, and CSS to render a very simple, one page
-application that shows you:
+**Update:** *Due to time limitations this project has been discontinued. Please feel free to use or distribute any of the code in this repo as per the license below.*
 
-- The top 10 cryptocurrencies by market cap
-- All cryptocurrency prices over the last hour, day, and week
+## Getting started
+This project is still very much in the early days of development so it is not currently available on npm (but will be soon). 
 
-This is useful for people interested in speculating on the cryptocurrency
-marketplaces, as you can take a look at short term performance to get a feel for
-how you'd like to speculate.
+To use the components simply download the `components.bundle.js` and `app.style.css` files from the `/dist` directory and link to them in your html.
 
+Alternatively, if you would like to see a demo of the current set of components and styles you can clone this repo and build it to see a demo application. After cloning the repo run:
 
-![website image][]
+```bash
+npm install
+npm start
+```
 
-
-## Technical Details
-
-This application is built with plain old HTML and [Bootstrap][] for CSS.  I'm
-also using a Bootstrap theme called [Simplex][] which makes things look a tiny
-bit better.
-
-The Javascript part of the site is powered by [Vue.js][], a very simple
-Javascript framework.
-
-I'm also using:
-
-- [vue2-filters][], a simple Vue.js library that provides some useful template
-  filters for displaying text. In this app, I only the filter for helping to
-  display currency values nicely.
-- [axios][], a simple Javascript library for making HTTP requests
-
-Finally, the data on this website is powered by two separate, free, API
-services:
-
-- [coinmarketcap][], which provides a list of the top 10 cryptocurrencies, and
-  their price details, and
-- [cryptocompare][], which provides metadata about all cryptocurrencies,
-  including their respective logo images (which is what I use this for)
+A browser window will automatically open and load the demo app.
 
 
-  [Bootstrap]: http://getbootstrap.com/ "Twitter Bootstra"
-  [Simplex]: https://bootswatch.com/simplex/ "Simplex Bootstrap Theme"
-  [Vue.js]: https://vuejs.org/ "Vue.js"
-  [vue2-filters]: https://www.npmjs.com/package/vue2-filters "vue2-filters"
-  [axios]: https://github.com/mzabriskie/axios "axios"
-  [coinmarketcap]: https://coinmarketcap.com/api/ "coinmarketcap API"
-  [cryptocompare]: https://www.cryptocompare.com/api "cryptocompare API"
-  [website image]: /static/images/screenshot.png "Screenshot"
-  [datatables]: https://datatables.net/examples/styling/bootstrap.html "Datatables for Bootstrap"
+## License
+MIT License
 
-  ## BrowserSync
+Copyright (c) 2017 Andrew Courtice
 
-  Cross device test and develop on the fly. Setup browsersync then run this site on desktop and mobile while working on front end. Connect both devices to the same wifi and access the local url from desktop and external url from mobile.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-  Run: 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-  ```npm install -g browser-sync```
-
-  Then: 
-
-  ```browser-sync start --server --files "css/*.css"```
-
-
-  ## To do 
-
-  - Tie in backend
-  - Mobile tables
-  - index_api.html version tie in through datatables 
-
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

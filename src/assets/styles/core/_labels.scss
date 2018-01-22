@@ -1,0 +1,27 @@
+
+.label {
+    display: inline-block;
+    min-width: 1.5em * $typography-ratio;
+    padding: 0 0.5em;
+    font-size: 1em/$typography-ratio;
+    font-weight: 600;
+    line-height: inherit;
+    text-align: center;
+    color: $colour-font;
+    background-color: $colour-background-medium;
+    border-radius: $border-radius;
+}
+
+.label-primary {
+    color: $colour-font-negative;
+    background-color: $colour-primary;
+}
+
+@each $name, $colour in $colour-accents {
+
+    .label-#{ $name } {
+        color: $colour-font-negative;
+        background-color: $colour;
+    }
+
+} 
