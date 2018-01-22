@@ -8,6 +8,7 @@ var dataSet = [
        "-3.41%",
        "-11.98%",
        "$224,997,571,017.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -19,6 +20,7 @@ var dataSet = [
        "-7.86%",
        "+2.24%",
        "$120,398,384,110.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -30,7 +32,8 @@ var dataSet = [
        "-14.22%",
        "-32.94%",
        "$62,376,992,971.00",
-       "Proof of work"
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
+       "Non mining"
     ],
     [  
        "4",
@@ -41,6 +44,7 @@ var dataSet = [
        "-9.7%",
        "-5.23%",
        "$38,882,908,925.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -52,6 +56,7 @@ var dataSet = [
        "-12.27%",
        "-16.9%",
        "$19,134,463,255.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -63,6 +68,7 @@ var dataSet = [
        "-5.24%",
        "-10.54%",
        "$12,415,435,548.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -74,6 +80,7 @@ var dataSet = [
        "+17.37%",
        "+55.35%",
        "$11,901,500,000.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -85,7 +92,8 @@ var dataSet = [
        "-11.56%",
        "-22.53%",
        "$11,615,219,999.00",
-       "Proof of work"
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
+       "Proof of Importance"
     ],
     [  
        "9",
@@ -96,7 +104,8 @@ var dataSet = [
        "-13.76%",
        "-12.48%",
        "$9,956,539,126.00",
-       "Proof of work"
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
+       "Non mining"
     ],
     [  
        "10",
@@ -107,6 +116,7 @@ var dataSet = [
        "-7.1%",
        "-9.96%",
        "$9,480,977,795.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -118,6 +128,7 @@ var dataSet = [
        "-12.37%",
        "+34.14%",
        "$7,690,571,055.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -129,6 +140,7 @@ var dataSet = [
        "-11.24%",
        "-17.66%",
        "$7,109,817,722.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -140,6 +152,7 @@ var dataSet = [
        "-1.24%",
        "-5.23%",
        "$6,312,564,049.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -151,6 +164,7 @@ var dataSet = [
        "-11.81%",
        "-52.24%",
        "$4,694,223,698.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -162,6 +176,7 @@ var dataSet = [
        "-10.95%",
        "+3.06%",
        "$4,151,013,042.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -173,6 +188,7 @@ var dataSet = [
        "-11.17%",
        "+12.61%",
        "$3,784,173,589.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -184,6 +200,7 @@ var dataSet = [
        "-12.91%",
        "-12.8%",
        "$3,632,507,786.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -195,6 +212,7 @@ var dataSet = [
        "-13.64%",
        "-23.94%",
        "$3,403,417,024.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -206,6 +224,7 @@ var dataSet = [
        "-10.28%",
        "-16.35%",
        "$3,078,336,193.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -217,6 +236,7 @@ var dataSet = [
        "-14.96%",
        "-25.33%",
        "$2,610,267,362.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -228,6 +248,7 @@ var dataSet = [
        "%",
        "+48.08%",
        "$2,435,500,829.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -239,6 +260,7 @@ var dataSet = [
        "-12.41%",
        "-13.21%",
        "$2,165,853,161.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -250,6 +272,7 @@ var dataSet = [
        "-4.81%",
        "-9.93%",
        "$1,948,409,772.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -261,6 +284,7 @@ var dataSet = [
        "-9.58%",
        "-7.65%",
        "$1,909,450,128.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
     [  
@@ -272,21 +296,82 @@ var dataSet = [
        "-25.22%",
        "-9.57%",
        "$1,697,753,452.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ]
 ];
 
 $(document).ready(function() {
     $('#cryptocurrency-compare').DataTable({
+      "language": {
+          "info": "Showing page _PAGE_ of _PAGES_ of _TOTAL_ coins",
+          "infoFiltered":   "(filtered from _MAX_ total coins)"
+
+        },
       responsive: true,
       fixedHeader: true,
       fixedHeader: {
         headerOffset: 50
       },
       "columnDefs": [
+      //shrink rank column width 
+      { "width": "5%", "targets": 0 },
+
+      //disable trend sort and search
+        {
+          "targets": 8,
+          "searchable": false,
+          "orderable": false,
+        },
+        //price color
+        {
+          "targets": 3,
+            "createdCell": function (td, cellData, rowData, row, col) {
+              if ( cellData > "$100" ) {
+                $(td).css('color', 'green')
+              } else {
+                $(td).css('color', 'crimson')
+              }
+            }
+        },
+        //1hour color
+        {
+          "targets": 4,
+            "createdCell": function (td, cellData, rowData, row, col) {
+              if ( cellData.indexOf("+") ) {
+                $(td).css('color', 'green')
+              } else {
+                $(td).css('color', 'crimson')
+              }
+            }
+        },
+        //1day color
+        {
+          "targets": 5,
+            "createdCell": function (td, cellData, rowData, row, col) {
+              if ( cellData.indexOf("+") ) {
+                $(td).css('color', 'green')
+              } else {
+                $(td).css('color', 'crimson')
+              }
+            }
+        },
+        //1week color
+        {
+          "targets": 6,
+            "createdCell": function (td, cellData, rowData, row, col) {
+              if ( cellData.indexOf("+") ) {
+                $(td).css('color', 'green')
+              } else {
+                $(td).css('color', 'crimson')
+              }
+            }
+        },
         { className: "coin_title", "targets": [ 1 ] },
+        { className: "rank", "targets": [ 0 ] },
         { responsivePriority: 1, targets: 0 },
         { responsivePriority: 2, targets: 1 },
+        
         { responsivePriority: 3, targets: 3 }
     ],
       data: dataSet,
@@ -299,6 +384,7 @@ $(document).ready(function() {
             { title: "1d" },
             { title: "1w" },
             { title: "Market Cap" },
+            { title: "Trend" },
             { title: "Coin Type" }
         ]
     });

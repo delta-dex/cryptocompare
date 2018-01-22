@@ -31,6 +31,10 @@ h1 {
   text-align: center;
 }
 
+table {
+  border:1px solid #ddd;
+}
+
 table thead {
   background:#F9B92F;
 }
@@ -48,6 +52,10 @@ table thead tr th:hover, table thead tr th.sorting_asc, table thead tr th.sortin
   color:#222;
 }
 
+table thead tr th.sorting_disabled, table thead tr th.sorting_disabled:hover {
+  color:#fff;
+}
+
 table tr td, table thead th {
   text-align:right;
 }
@@ -55,9 +63,20 @@ table tr td, table thead th {
 table tr td.coin_title, table thead th.coin_title {
   text-align:left;
 }
+table tr td.rank {
+  text-align:center;
+  font-size:2em;
+  font-size: 1.2em;
+  border: 1px solid #ddd;
+  border-width: 1px 1px 0 1px;
+}
 
 td img {
   width:18px;
+}
+
+td img.trend {
+  width:120px;
 }
 
 @media only screen and (min-width:40em) { 
@@ -66,9 +85,6 @@ td img {
   }
 }
 
-table tr td.rank {
-  width:3em;
-}
 
 
 .pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
