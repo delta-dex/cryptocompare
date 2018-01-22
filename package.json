@@ -1,0 +1,26 @@
+{
+  "name": "cryptocompare",
+  "version": "1.0.0",
+  "description": "A cryptocurrency chart with datatables and vue.js",
+  "main": "index.js",
+  "dependencies": {
+    "datatables.net-bs": "^1.10.16",
+    "datatables.net-responsive-bs": "^2.2.1",
+    "jquery": "^3.3.1",
+    "vue-datatables": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcoin-portal/cryptocompare.git"
+  },
+  "author": "Corbin Fraser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitcoin-portal/cryptocompare/issues"
+  },
+  "homepage": "https://github.com/bitcoin-portal/cryptocompare#readme"
+}
