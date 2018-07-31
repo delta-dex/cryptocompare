@@ -49,6 +49,18 @@ var dataSet = [
     ],
     [  
        "5",
+       "<img src='https://www.cryptocompare.com/media/351303/amis-logo.png'> Amis",
+       "AMIS",
+       "$1174.93",
+       "+0.33%",
+       "-0.58%",
+       "-0.65%",
+       "$23,498,600,000.00",
+       "<img src='https://cryptohistory.org/charts/sparkline/amis-eth/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
+       "Digital Asset not mineable"
+    ],
+    [  
+       "6",
        "<img src='https://www.cryptocompare.com/media/12318177/ada.png'> Cardano",
        "ADA",
        "$0.74",
@@ -60,7 +72,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "6",
+       "7",
        "<img src='https://www.cryptocompare.com/media/19782/litecoin-logo.png'> Litecoin",
        "LTC",
        "$226.65",
@@ -72,7 +84,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "7",
+       "8",
        "<img src='https://www.cryptocompare.com/media/1383858/neo.jpg'> NEO",
        "NEO",
        "$183.10",
@@ -84,7 +96,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "8",
+       "9",
        "<img src='https://www.cryptocompare.com/media/20490/xem.png'> NEM",
        "XEM",
        "$1.29",
@@ -96,7 +108,7 @@ var dataSet = [
        "Proof of Importance"
     ],
     [  
-       "9",
+       "10",
        "<img src='https://www.cryptocompare.com/media/20696/str.png'> Stellar",
        "XLM",
        "$0.56",
@@ -108,7 +120,7 @@ var dataSet = [
        "Non mining"
     ],
     [  
-       "10",
+       "11",
        "<img src='https://www.cryptocompare.com/media/1383540/iota_logo.png'> IOTA",
        "MIOTA",
        "$3.41",
@@ -120,7 +132,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "11",
+       "12",
        "<img src='https://www.cryptocompare.com/media/1383652/eos_1.png'> EOS",
        "EOS",
        "$12.67",
@@ -132,7 +144,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "12",
+       "13",
        "<img src='https://www.cryptocompare.com/media/20626/imageedit_27_4355944719.png'> Dash",
        "DASH",
        "$909.07",
@@ -144,7 +156,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "13",
+       "14",
        "<img src='https://www.cryptocompare.com/media/19969/xmr.png'> Monero",
        "XMR",
        "$404.44",
@@ -156,7 +168,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "14",
+       "15",
        "<img src='https://www.cryptocompare.com/media/12318089/trx.png'> TRON",
        "TRX",
        "$0.07",
@@ -168,7 +180,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "15",
+       "16",
        "<img src='https://www.cryptocompare.com/media/12318377/btg.png'> Bitcoin Gold",
        "BTG",
        "$247.57",
@@ -180,7 +192,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "16",
+       "17",
        "<img src='https://www.cryptocompare.com/media/20275/etc2.png'> Ethereum Classic",
        "ETC",
        "$38.17",
@@ -192,7 +204,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "17",
+       "18",
        "<img src='https://www.cryptocompare.com/media/1383382/qtum.png'> Qtum",
        "QTUM",
        "$49.21",
@@ -204,7 +216,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "18",
+       "19",
        "<img src='https://www.cryptocompare.com/media/12318192/icx.png'> ICON",
        "ICX",
        "$8.96",
@@ -216,7 +228,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "19",
+       "20",
        "<img src='https://www.cryptocompare.com/media/352246/lsk.png'> Lisk",
        "LSK",
        "$26.30",
@@ -228,7 +240,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "20",
+       "21",
        "<img src='https://www.cryptocompare.com/media/1383674/xrb.png'> RaiBlocks",
        "XRB",
        "$19.59",
@@ -240,7 +252,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "21",
+       "22",
        "<img src='https://www.cryptocompare.com/media/351736/ardr.png'> Ardor",
        "ARDR",
        "$2.44",
@@ -252,7 +264,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "22",
+       "23",
        "<img src='https://www.cryptocompare.com/media/1383814/omisego.png'> OmiseGO",
        "OMG",
        "$21.23",
@@ -264,7 +276,7 @@ var dataSet = [
        "Proof of work"
     ],
     [  
-       "23",
+       "24",
        "<img src='https://www.cryptocompare.com/media/351360/zec.png'> Zcash",
        "ZEC",
        "$635.20",
@@ -272,18 +284,6 @@ var dataSet = [
        "-4.81%",
        "-9.93%",
        "$1,948,409,772.00",
-       "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
-       "Proof of work"
-    ],
-    [  
-       "24",
-       "<img src='https://www.cryptocompare.com/media/351303/amis-logo.png'> Amis",
-       "AMIS",
-       "$19.35",
-       "+3.33%",
-       "-9.58%",
-       "-7.65%",
-       "$1,909,450,128.00",
        "<img src='https://cryptohistory.org/charts/sparkline/bch-usdt/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
        "Proof of work"
     ],
