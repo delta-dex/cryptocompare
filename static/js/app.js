@@ -49,7 +49,7 @@ var dataSet = [
     ],
     [  
        "5",
-       "<img src='https://https://www.cryptocompare.com/media/1382862/amis.png'> Amis",
+       "<img src='https://www.cryptocompare.com/media/1382862/amis.png'> Amis",
        "AMIS",
        "$1174.93",
        "+0.33%",
