@@ -277,8 +277,8 @@ var dataSet = [
     ],
     [  
        "24",
-       "<img src='https://www.cryptocompare.com/media/351303/stratis-logo.png'> Stratis",
-       "STRAT",
+       "<img src='https://www.cryptocompare.com/media/351303/amis-logo.png'> Amis",
+       "AMIS",
        "$19.35",
        "+3.33%",
        "-9.58%",
