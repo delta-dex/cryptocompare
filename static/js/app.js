@@ -49,14 +49,14 @@ var dataSet = [
     ],
     [  
        "5",
-       "<img src='https://www.cryptocompare.com/media/351303/amis-logo.png'> Amis",
+       "<img src='https://https://www.cryptocompare.com/media/1382862/amis.png'> Amis",
        "AMIS",
        "$1174.93",
        "+0.33%",
        "-0.58%",
        "-0.65%",
        "$23,498,600,000.00",
-       "<img src='https://cryptohistory.org/charts/sparkline/amis-eth/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='BCH/USDT 7d chart' style='vertical-align: bottom;'>",
+       "<img src='https://cryptohistory.org/charts/sparkline/amis-eth/7d/svg?lineColor=35ABE6&markerColor=F7B840' class='trend' alt='AMIS/USDT 7d chart' style='vertical-align: bottom;'>",
        "Digital Asset not mineable"
     ],
     [  
