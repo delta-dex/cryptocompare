@@ -322,8 +322,8 @@ $(document).ready(function() {
       //disable trend sort and search
         {
           "targets": 8,
-          "searchable": false,
-          "orderable": false,
+          "searchable": true,
+          "orderable": true,
         },
         //price color
         {
