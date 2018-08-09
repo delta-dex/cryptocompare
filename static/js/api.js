@@ -33,7 +33,7 @@ let app = new Vue({
     getCoinData: function() {
       let self = this;
 
-      axios.get(CRYPTOCOMPARE_API_URI + "/data/pricemulti?fsyms=BTC,ETH,AMIS&tsyms=USD")
+      axios.get(CRYPTOCOMPARE_API_URI + "/data/all/coinlist")
         .then((resp) => {
           this.coinData = resp.data.Data;
           this.getCoins();
